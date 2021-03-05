@@ -4,7 +4,7 @@
 
 ## Описание: 
 Аргументы передаются через командную строку  
-lab6.exe <input> <output> <width> <height> <dx> <dy> <gamma> <type> [<B> <C>],  
+lab6.exe <input> <output> <width> <height> <dx> <dy> <gamma> <type>,  
 где  
 * <input>, <output> - имена входного и выходного файлов в формате PNM P5 или P6.
 * <width>, <height> - ширина и высота результирующего изображения, натуральные числа.
